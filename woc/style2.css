@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 10px;
+    
+}
+.red{
+    background: rgb(142, 217, 230);
+    height: 100px;
+    color: darkblue;
+
+}
+
+.green{
+    background-color: seagreen;
+    color: bisque;
+}
